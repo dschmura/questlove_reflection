@@ -139,6 +139,10 @@ My biggest complaint overall is that I am working in isolation. My biggest probl
 
 Following up on yesterday, I decided to try to learn and implement an ActionCable version today, but, I completely ran aground programming-wise. Things that I know are simple to do, and have done simply before, eluded me. I continued to make attempts, but nothing is working today. 
 
+I have tried every trick I know to reboot and refocus, but nothing is working. I don't know if this is residual cold, or something in my brain trying to sabotage me, but it is as if I am in quicksand, and every move I make to try to get unstuck moves me deeper in. 
+
+I decided to throw in the towel. I am beyond salvaging either of the projects, and I am so demoralized. I am embarassed, frustrated, and questioning life choices. 
+
 ### Overall Process Reflection  
 
 I run through a similar process for every project (or feature). In general terms 
